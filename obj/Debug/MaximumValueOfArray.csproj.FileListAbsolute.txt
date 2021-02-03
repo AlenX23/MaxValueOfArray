@@ -1,0 +1,15 @@
+C:\4\C#\MaximumValueOfArray\bin\Debug\MaximumValueOfArray.exe.config
+C:\4\C#\MaximumValueOfArray\bin\Debug\MaximumValueOfArray.exe
+C:\4\C#\MaximumValueOfArray\bin\Debug\MaximumValueOfArray.pdb
+C:\4\C#\MaximumValueOfArray\obj\Debug\MaximumValueOfArray.csprojAssemblyReference.cache
+C:\4\C#\MaximumValueOfArray\obj\Debug\MainWindow.g.cs
+C:\4\C#\MaximumValueOfArray\obj\Debug\App.g.cs
+C:\4\C#\MaximumValueOfArray\obj\Debug\MaximumValueOfArray_MarkupCompile.cache
+C:\4\C#\MaximumValueOfArray\obj\Debug\MaximumValueOfArray_MarkupCompile.lref
+C:\4\C#\MaximumValueOfArray\obj\Debug\MainWindow.baml
+C:\4\C#\MaximumValueOfArray\obj\Debug\MaximumValueOfArray.g.resources
+C:\4\C#\MaximumValueOfArray\obj\Debug\MaximumValueOfArray.Properties.Resources.resources
+C:\4\C#\MaximumValueOfArray\obj\Debug\MaximumValueOfArray.csproj.GenerateResource.cache
+C:\4\C#\MaximumValueOfArray\obj\Debug\MaximumValueOfArray.csproj.CoreCompileInputs.cache
+C:\4\C#\MaximumValueOfArray\obj\Debug\MaximumValueOfArray.exe
+C:\4\C#\MaximumValueOfArray\obj\Debug\MaximumValueOfArray.pdb
